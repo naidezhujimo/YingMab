@@ -10,18 +10,6 @@ Mamba is a modern state space model (SSM) featuring **input-dependent state tran
 - 🧮 **Structured state matrices** with complex-number initialization
 - 📈 **Memory-efficient design** with O(L) memory complexity
 
-## Installation
-1. Clone repository:
-```bash
-git clone https://github.com/yourusername/mamba.git
-cd mamba
-```
-
-2. Install dependencies (CUDA 11.7+ required):
-```bash
-pip install torch triton
-```
-
 ## Usage
 
 ### Basic Model Initialization
